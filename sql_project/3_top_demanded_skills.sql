@@ -17,7 +17,7 @@ INNER JOIN skills_dim AS skills
     ON skill_to_job.skill_id = skills.skill_id
 WHERE
     job_title_short = 'Data Analyst'
-    AND job_via = 'via LinkedIn'
+    AND job_work_from_home = TRUE
 GROUP BY
     skills
 ORDER BY
