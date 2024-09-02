@@ -253,4 +253,4 @@ Throughout this journey, I’ve significantly enhanced my following SQL skills:
 
 ### Closing Thoughts
 A special appreciation goes to Luke Barousse and his team for providing these resources at no cost.
-This project sharpened my SQL skills and provided key insights into the data analyst job market. The findings emphasize the importance of prioritizing high-demand, high-salary skills for career advancement. Continuous learning and adapting to industry trends are crucial for staying competitive in data analytics.
+This project sharpened my SQL skills and provided key insights into the data analyst job market. The findings emphasize the importance of prioritizing high-demand, high-salary skills for career advancement. Continuous learning and adapting to industry trends are crucial for staying competitive in data analytics.  
