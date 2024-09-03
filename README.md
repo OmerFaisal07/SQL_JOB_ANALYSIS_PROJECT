@@ -1,6 +1,6 @@
  # Introduction
 📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
-
+- **Database Schema Used In The Project**
 ![Database Schema](assets/database_schema.jpg)
 
 🔍 SQL queries? Check them out here: [sql_project folder](/sql_project/)
